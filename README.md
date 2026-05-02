@@ -1,12 +1,12 @@
 # Hi, my name is Reza Moghaddam <br>
 
-## 💫 About Me <br>
+## 💫 About Me 
 
 🚀 Studying for a Bachelor's in Aerospace Engineering at **Islamic Azad University of Tabriz** <br>
 🐉 Founder & Leader of **BiDandon Group** <br>
 📫 Reach me at: moghadamr231@gmail.com <br>
 
-## 💻 My Skills <br>
+## 💻 My Skills 
 
 📘 Programming languages : `Python` `C++` `C#` `HTML` `CSS` <br>
 📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` <br>
