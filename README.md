@@ -10,7 +10,7 @@
 
 📘 Programming languages : `Python` `C++` `C#` `HTML` `CSS` <br>
 📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` <br>
-📙 Frameworks & DB : `Flask` `.NET` `OpenCV` `MySQL` `SQLite` <br>
+📙 Frameworks & DB : `.NET` `OpenCV` `MySQL` `SQLite` <br>
 
 ## 🐉 BiDandon Group <br>
 
