@@ -1,18 +1,18 @@
-# Hi, my name is Reza Moghaddam
+# Hi, my name is Reza Moghaddam <br>
 
-## 💫 About Me
+## 💫 About Me <br>
 
 🚀 Studying for a Bachelor's in Aerospace Engineering at **Islamic Azad University of Tabriz** <br>
 🐉 Founder & Leader of **BiDandon Group** <br>
-📫 Reach me at: moghadamr231@gmail.com
+📫 Reach me at: moghadamr231@gmail.com <br>
 
-## 💻 My Skills
+## 💻 My Skills <br>
 
 📘 Programming languages : `Python` `C++` `C#` `HTML` `CSS` <br>
 📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` <br>
-📙 Frameworks & DB : `Flask` `.NET` `OpenCV` `MySQL` `SQLite` 
+📙 Frameworks & DB : `Flask` `.NET` `OpenCV` `MySQL` `SQLite` <br>
 
-## 🐉 BiDandon Group
+## 🐉 BiDandon Group <br>
 
 **BiDandon** is where rules have no teeth, limitations have no power, and ideas move without brakes. We are a group that breaks away from ordinary molds and builds our projects with courage and creativity — not repetition and clichés.
 
