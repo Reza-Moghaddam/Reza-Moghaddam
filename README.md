@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, my name is Reza Moghaddam
 
-<!--
-**Reza-Moghaddam/Reza-Moghaddam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💫 About Me
 
-Here are some ideas to get you started:
+🚀 Studying for a Bachelor's in Aerospace Engineering at **Islamic Azad University of Tabriz** <br>
+🐉 Founder & Leader of **BiDandon Group** <br>
+📫 Reach me at: moghadamr231@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 My Skills
+
+📘 Programming languages : `Python` `C++` `C#` `HTML` `CSS` <br>
+📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` <br>
+📙 Frameworks & DB : `Flask` `.NET` `OpenCV` `MySQL` `SQLite` 
+
+## 🐉 BiDandon Group
+
+**BiDandon** is where rules have no teeth, limitations have no power, and ideas move without brakes. We are a group that breaks away from ordinary molds and builds our projects with courage and creativity — not repetition and clichés.
+
+**BiDandon means:** fearless, blunt, no fluff.  
+Here, anything that needs biting is solved with the brain, not with teeth!
+
+Our team is a mix of designers, developers, and technology maniacs who enjoy crafting unique digital experiences. We don't want to be like everyone else; we want to build something that others will want to be like.
+
+When a project is on the line, only one thing matters: a result that is clean, fast, well-crafted, and unique — **BiDandon style**.
