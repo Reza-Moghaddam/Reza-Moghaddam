@@ -9,8 +9,8 @@
 ## 💻 My Skills 
 
 📘 Programming languages : `Python` `C++` `C#` `HTML` `CSS` <br>
-📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` <br>
-📙 Frameworks & DB : `.NET` `OpenCV` `MySQL` `SQLite` <br>
+📗 OS & Tools : `Linux` `Bash` `Git` `VS Code` `Figma` `Adobe Photoshop` `Adobe After Effects` `Adobe Premiere` `CCNA` <br>
+📙 Frameworks & DB : `.NET` `OpenCV` `Django` `MySQL` `SQLite` <br>
 
 ## 🐉 BiDandon Group <br>
 
