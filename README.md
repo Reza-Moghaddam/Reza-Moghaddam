@@ -44,6 +44,3 @@ Developer 💻 | Hardware ⚡ | Networking 🌐 | Aerospace 🚀
 ![Network+](https://img.shields.io/badge/Network%2B-0096D6?style=plastic&logo=comptia&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=plastic&logo=figma&logoColor=white)
 
-## 📊 GitHub Stats:
----
-![Reza's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Reza-Moghaddam&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github)
