@@ -26,6 +26,7 @@ Developer 💻 | Hardware ⚡ | Networking 🌐 | Aerospace 🚀
 ## 📱 Socials:
 ---
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=plastic&logo=instagram&logoColor=white)](https://instagram.com/Rezamo571)
+[![X](https://img.shields.io/badge/X-000000?style=plastic&logo=x&logoColor=white)](https://x.com/Rezamo751)
 [![Telegram|81](https://img.shields.io/badge/Telegram-26A5E4?style=plastic&logo=telegram&logoColor=white)](https://t.me/Rezamo517)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reza-moghaddam-25291120b/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=plastic&logo=gmail&logoColor=white)](mailto:moghadamr231@gmail.com)
