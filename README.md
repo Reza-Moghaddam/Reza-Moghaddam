@@ -1,5 +1,3 @@
-👋Hi, My name is 
-
 ```
  ____  ____  ____   __     _  _   __    ___  _  _   __   ____  ____   __   _  _ 
 (  _ \(  __)(__  ) / _\   ( \/ ) /  \  / __)/ )( \ / _\ (    \(    \ / _\ ( \/ )
@@ -40,6 +38,7 @@ Developer 💻 | Hardware ⚡ | Networking 🌐 | Aerospace 🚀
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=plastic&logo=csharp&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=plastic&logo=mysql&logoColor=white)
 
 ### Frameworks & Libraries
@@ -49,6 +48,7 @@ Developer 💻 | Hardware ⚡ | Networking 🌐 | Aerospace 🚀
 ![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=plastic&logo=dotnet&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=plastic&logo=django&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=plastic&logo=opencv&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=plastic&logo=nodedotjs&logoColor=white)
 
 ### Databases
 
@@ -79,4 +79,3 @@ Developer 💻 | Hardware ⚡ | Networking 🌐 | Aerospace 🚀
 # 📈 Contribution Graph
 
 [![Reza's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Reza-Moghaddam&theme=github-dark&hide_border=true)](https://github.com/Reza-Moghaddam)
-
